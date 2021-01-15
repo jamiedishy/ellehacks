@@ -1,4 +1,4 @@
-### Punch up your Pitch with Data 
+### [Punch up your Pitch with Data](https://generalassemb.ly/education/elle-hacks-x-ga-punch-up-your-pitch-with-data)
 
 A **GA** x **Elle Hacks** Session
 
@@ -8,10 +8,23 @@ You only have 36 hours... So I'm not gunna to waste your time. Instead of talkin
 
 #### Topics
 
-- 1/3 Basic stats hacks
-- 1/3 Finding/validating ideas with webscraping
-- 1/3 Data visualization
+- Data visualization
+- Finding/validating ideas with web scraping
+- Basic stats hacks
 
 #### Disclaimer
 
 This session is going to be Python heavy, but suitable for beginners and more advanced users of the language.
+
+
+
+---
+
+
+
+#### Learn More
+
+- Visualization: [Altair Gallery](https://altair-viz.github.io/gallery/index.html)
+- Web scraping: [https://scrape.world](https://scrape.world/)
+- Statistics for Hackers: [YouTube](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+- General Assembly: [Part Time Data Science Course](https://generalassemb.ly/education/data-science/toronto)
